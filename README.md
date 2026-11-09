@@ -1,5 +1,5 @@
-#👋 Hi i'm Amaka;
-🧠 a Computer engineer(Bsc) and a IT Specialist for Software development(IHK)<br>🔭 I’m currently working on an Android Expense Tracker App, with kotlin<br>👯 I’m looking to collaborate on open source Projects<br>⚡ Fun fact : I’ve spent more time picking a VS Code theme than writing some of my projects
+# 👋 Hi, i'm Amaka!
+🧠 Computer engineer(Bsc) and an IT Specialist for Software development(IHK)<br>🔭 I’m currently working on an Android Expense Tracker App, with kotlin<br>👯 I’m looking to collaborate on open source Projects<br>⚡ Fun fact : I’ve spent more time picking a VS Code theme than writing some of my projects 😂
 
 
 ## 🌐 Socials:
